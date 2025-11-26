@@ -1,2 +1,2 @@
-# AJAY-K
+# Haran
 CS GPTL LINGASUGUR
